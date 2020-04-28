@@ -1,0 +1,6 @@
+0,you're standing in front of computer and finished the game
+1,You're standing at the end of a road before a small brick building 
+2,you're at the top of a hill
+3,You're inside a building, a well house for a small spring
+4,You're in a welly inside a stream
+5,you,re in the forest
